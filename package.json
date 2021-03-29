@@ -5,6 +5,7 @@
     "version": "0.0.3",
     "icon":"logo.png",
     "publisher":"doomsec",
+    "repository": "https://github.com/4nkitd/doom-theme",
     "engines": {
         "vscode": "^1.54.0"
     },

@@ -3,7 +3,7 @@
     "displayName": "Doomed theme",
     "description": "dark theme with vibrant colors",
     "version": "0.0.2",
-    "icon":"logo.png"
+    "icon":"logo.png",
     "publisher":"doomsec",
     "engines": {
         "vscode": "^1.54.0"

@@ -1,9 +1,5 @@
-# Change Log
+# Version Feature History
 
-All notable changes to the "doom-theme" extension will be documented in this file.
+## <span style="color:yellow">Version : 0.0.3</span>
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Added Documentation with example screenshot

@@ -1,0 +1,23 @@
+{
+    "name": "doom-theme",
+    "displayName": "Doomed theme",
+    "description": "dark theme with vibrant colors",
+    "version": "0.0.2",
+    "icon":"logo.png"
+    "publisher":"doomsec",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "doom",
+                "uiTheme": "vs-dark",
+                "path": "./themes/doom-color-theme.json"
+            }
+        ]
+    }
+}
